@@ -1,3 +1,3 @@
 ### Live Demo : 
 
-https://krishanmihiranga.github.io/Netflix-Clone/
+https://netflix-clone-flax-seven.vercel.app/
